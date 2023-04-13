@@ -7,6 +7,9 @@ Estou amando fazer cada detalhe 💗
 - Conhecimento em HTML
 - Conhecimento CSS
 
+## Processo
+
+
 ## Não é facil, mas...
 É prazeroso ver que aos poucos vou adquirindo mais conhecimento.
 Faz parte ficar revendo as anotações e ler as documentações do mozilla (aliás, obrigada, parceiro fiel!).
