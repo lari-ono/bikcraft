@@ -12,3 +12,4 @@ Estou amando fazer cada detalhe 💗
 Faz parte ficar revendo as anotações e ler as documentações do mozilla (aliás, obrigada, parceiro fiel!).
 
 ### Observações
+Os detalhes fazem a diferença, então tome cuidado! Se você não prestar atenção, a estrutura pode virar uma bagunça!
