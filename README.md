@@ -12,7 +12,7 @@ Estou amando fazer cada detalhe 💗
 
 ## Não é facil, mas...
 É prazeroso ver que aos poucos vou adquirindo mais conhecimento.
-Faz parte ficar revendo as anotações e ler as documentações do mozilla (aliás, obrigada, parceiro fiel!).
+Faz parte ficar revendo as anotações e ler as documentações do mozilla (aliás, obrigada, ajuda muuuito).
 
 ### Observações
 Os detalhes fazem a diferença, então tome cuidado! Se você não prestar atenção, a estrutura pode virar uma bagunça!
