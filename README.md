@@ -2,7 +2,7 @@
 Olá, está pronto meu primeiro projeto de HTML/CSS! 
 O objetivo do site é mostrar a página home do bikcraft.
 Aprendi a fazer um menu, botão e como ela fica dinâmica ao passar o mouse, coloquei decoração (o risquinho vermelho) para fugir do básico. Quase não dá pra ver, mas tem um background de ondas no texto "Vantagens". Vou contar mais na seção "Processo".
-Estou amando fazer cada detalhe 💗
+Amei fazer cada detalhe 💗
 
 ## O que utilizei
 - Conhecimento em HTML
