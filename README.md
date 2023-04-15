@@ -5,8 +5,8 @@ Aprendi a fazer um menu, botão e como ela fica dinâmica ao passar o mouse, col
 Amei fazer cada detalhe 💗
 
 ## O que utilizei
-- Conhecimento em HTML
-- Conhecimento CSS
+- HTML
+- CSS
 
 ## Processo
 
